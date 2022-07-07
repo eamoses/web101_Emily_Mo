@@ -1,0 +1,21 @@
+header {
+    border: 1px solid black;
+    text-align: center;
+}
+
+section {
+    margin: 20px;
+    /* border: 1px solid black; */
+    display: grid;
+    grid-template-columns: 10% 30% 30% 30%;
+}
+
+div {
+    margin: 10px;
+    /* border: 1px solid red; */
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+}
